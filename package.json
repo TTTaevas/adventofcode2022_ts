@@ -1,13 +1,13 @@
 {
-  "name": "adventofcode",
+  "name": "adventofcode2022_ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Solutions to Advent of Code 2022's puzzles written in TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Taevas",
+  "license": "WTFPL",
   "devDependencies": {
     "@types/node": "^18.11.18",
     "ts-node": "^10.9.1",
